@@ -1,2 +1,2 @@
-# scraping-netflix
+# scraping-amazon-review
  
